@@ -5,7 +5,7 @@ Currently Working On: RunUO/ServUO/ModernUO Servers, ClassicUO Plugins, Razor Sc
 <div class="badges-githubstats">
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=vharaun&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="vharaun's Stats" height="165">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=vharaun&theme=tokyonight&hide_border=true" alt="vharaun's Streak" height="165">
+    <!--<img src="https://github-readme-streak-stats.herokuapp.com/?user=vharaun&theme=tokyonight&hide_border=true" alt="vharaun's Streak" height="165">-->
   </p>
 </div>
 

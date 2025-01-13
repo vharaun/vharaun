@@ -1,9 +1,9 @@
 ## Vharaun
 Currently Working On: 
-    - [ ] RunUO/ServUO/ModernUO Servers, 
-    - [ ] ClassicUO Plugins, 
-    - [ ] Razor Scripts, 
-    - [ ] Server Hosting Services including Hosting ServUO in Docker
+ - [ ] RunUO/ServUO/ModernUO Servers, 
+ - [ ] ClassicUO Plugins, 
+ - [ ] Razor Scripts, 
+ - [ ] Server Hosting Services including Hosting ServUO in Docker
 
 
 <div class="badges-githubstats">

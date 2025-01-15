@@ -1,8 +1,8 @@
 ## Vharaun
 Currently Working On: 
- - [ ] RunUO/ServUO/ModernUO Servers, 
- - [ ] ClassicUO Plugins, 
- - [ ] Razor Enhanced Python and C# Scripts, 
+ - [ ] RunUO/ServUO/ModernUO Servers
+ - [ ] ClassicUO Plugins
+ - [ ] Razor Enhanced Python and C# Scripts
  - [ ] Server Hosting Services including Hosting ServUO in Docker
 
 

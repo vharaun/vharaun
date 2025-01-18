@@ -4,6 +4,8 @@ Currently Working On:
  - [ ] ClassicUO Plugins
  - [ ] Razor Enhanced Python and C# Scripts
  - [ ] Server Hosting Services including Hosting ServUO in Docker
+ - [ ] Ultima Online related tools
+ - [ ] Other game frameworks
 
 <div class="badges-githubstats">
   <p align="center">

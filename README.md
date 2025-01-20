@@ -6,6 +6,9 @@ Currently Working On:
  - [ ] Server Hosting Services including Hosting ServUO in Docker
  - [ ] Ultima Online Related Tools
  - [ ] Other Game Frameworks
+ - [ ] Automation Scripts
+ - [ ] CI/CD For Shards
+ - [ ] DDOS Protection Solutions
 
 <div class="badges-githubstats">
   <p align="center">

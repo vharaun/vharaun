@@ -1,13 +1,13 @@
-<!--Status: ?? 2025.03.31_21.52-->
+<!--Status: ?? 2025.06.01_21.52-->
 ## Vharaun
 Currently Working On: 
  - [X] RunUO/ServUO/ModernUO Servers
  - [ ] ClassicUO Plugins
  - [ ] Razor Enhanced Python and C# Scripts
- - [ ] Server Hosting Services including Hosting ServUO in Docker
- - [ ] Ultima Online Related Tools
+ - [x] Server Hosting Services including Hosting ServUO in Docker
+ - [x] Ultima Online Related Tools
  - [ ] Other Game Frameworks
- - [ ] Automation Scripts
+ - [x] Automation Scripts
  - [ ] CI/CD For Shards
  - [ ] DDOS Protection Solutions
 
